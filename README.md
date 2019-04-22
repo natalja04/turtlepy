@@ -1,0 +1,1 @@
+Some exercises related with reading csv file and using turtle library.
